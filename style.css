@@ -1,0 +1,97 @@
+.photo{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin: 0 auto;
+    z-index: -1;
+    width: 50%;
+}
+#container{
+    font-size: large;
+    margin: 0 auto;
+    
+}
+#page{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 24px;
+
+}
+#contain{
+    padding: 24px;
+    border:  solid 1px;
+    border-color: lightseagreen;
+    top: 0px;
+    padding-top: 10px;
+    
+    
+
+}
+h1{
+    font-size: large;
+    text-decoration-color: lightseagreen;
+
+
+}
+.input{
+    padding: 14px 12px;
+    margin: 0 auto;
+    width: 50%;
+    border: solid 1px;
+    border-color: lightseagreen;
+    border-radius: 5%;
+
+}
+.google{
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40px;
+    height: 40px;
+
+}
+.facebook{
+margin-left: 5%;
+margin-right: 5%;
+width: 40px;
+height: 40px;
+}
+
+#name{
+    display: grid;
+    grid-template-columns:  20% 50%;
+    justify-content: left;
+    display: flex;
+    flex: content;
+    gap: 5px;
+  
+
+}
+.signup{
+    background-color: lightseagreen;
+    text-decoration-color: white;
+    padding: 24px 340px;
+
+}
+.googlebutton{
+    border: solid 1px;
+    border-color: lightseagreen;
+    padding: 12px 12px;
+
+}
+.facebookbutton{
+    border: solid 1px;
+    border-color: lightseagreen;
+    padding: 12px 12px;
+}#images{
+    display: grid;
+    grid-template-columns: 20% 50%;
+    justify-content: left;
+    display: flex;
+    flex: content;
+    gap: 200px;
+    padding: 24px;
+}
+hi{
+    text-decoration-color: lightseagreen;
+}
+
